@@ -4,7 +4,7 @@
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <div id="badges">
   <a href="https://stackoverflow.com/users/14596529/satyam">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/70px-Stack_Overflow_icon.svg.png" width="80" height="20" alt="Stack Overflow Badge"/>
+    <img src="https://en.wikipedia.org/wiki/Stack_Overflow#/media/File:Stack_Overflow_logo.svg" width="80" height="20" alt="Stack Overflow Badge"/>
   </a>
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
