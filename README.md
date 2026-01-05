@@ -3,8 +3,8 @@
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://stackoverflow.com/users/14596529/satyam"width=80 hight=50 alt="LinkedIn Badge"/>
+  <a href="https://stackoverflow.com/users/14596529/satyam">
+    <img src="https://en.wikipedia.org/wiki/Stack_Overflow#/media/File:Stack_Overflow_logo.svg"width=80 hight=20 alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
