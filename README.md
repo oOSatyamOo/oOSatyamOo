@@ -13,8 +13,8 @@
  <br>
  <a href= "https://stackoverflow.com/users/14596529/satyam">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
-  </a><br>
-<p></p>
+  </a>
+  <br>
 
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
@@ -23,6 +23,7 @@
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a>
+<p></p>
 <a href= "https://stackoverflow.com/users/14596529/satyam">
         <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
   </a>
