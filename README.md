@@ -8,7 +8,13 @@
 <!-- <div id="badges" align="center">
   <div style="background-color: white; display: inline-block; padding: 2px;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=10alt="GIF with background"/>  </div id="stack card" align="center">-->
- 
+ <div style="width:300px; height:200px;">
+  <iframe
+    src="https://example.com/embed"
+    style="width:100%; height:100%; border:0;">
+  </iframe>
+</div>
+
 <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 <a href="https://stackoverflow.com/users/14596529/satyam">
  <div style="background-color: white; display: inline-block; padding: 2px;">
@@ -17,8 +23,6 @@
 <a href="https://stackoverflow.com/users/14596529/satyam">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
 </a>
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/fa6ca8af-3e70-4ca7-b078-e364e40511f2/i23izpVO9u.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
