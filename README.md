@@ -22,7 +22,8 @@
   </a> 
     </div>
 <dev align="center" >
-      <img align="center" src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
+      <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
+    </div>
 
 
 ## About Me
