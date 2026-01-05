@@ -9,15 +9,12 @@
   <div style="background-color: white; display: inline-block; padding: 2px;">
     <img src="your-gif-url.gif" alt="GIF with background"/>
   </div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
+<a href="https://stackoverflow.com/users/14596529/satyam">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
-  <a href="https://youtube.com/your-channel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
