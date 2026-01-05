@@ -20,10 +20,12 @@
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a> 
-
-
 </div>
----
+
+
+## About Me
+- I'm a passionate developer with expertise in [your skills].
+- I love building projects and learning new technologies.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -39,4 +41,33 @@
 <!-- </div> -->
 <!-- with background"/>  </div id="stack card" align="center">--> -->
   
+## Projects
+- [Project 1](link)
+- [Project 2](link)
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/satyam-k-5b3ab91bb/)
+- [Stackoverflow](https://stackoverflow.com/users/14596529/satyam)
+
+- 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :writing_hand: Blog Posts :
 
