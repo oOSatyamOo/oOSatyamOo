@@ -79,11 +79,11 @@
 ## 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<!-- <div style="width:300px; height:200px;"> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ### :writing_hand: Blog Posts :
 
