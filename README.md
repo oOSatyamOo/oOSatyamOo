@@ -1,10 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
-  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
+  
+  </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <a>
+    <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
+  </a>  
+
+  <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <div id="badges">
   <div style="background-color: white; display: inline-block; padding: 2px;">
   <img src="your-gif-url.gif" alt="GIF with background">
+    
 </div>
   </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <a href="https://youtube.com/your-channel">
@@ -16,9 +22,9 @@
   </a>
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+  </a>  
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS"alt=""/>
 
 </div>
