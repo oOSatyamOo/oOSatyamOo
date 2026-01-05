@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/960px-Stack_Overflow_logo.svg.png" width="100" alt="Welcome Animation"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 <!-- </a> --> 
- <!-- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
+ <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/960px-Stack_Overflow_logo.svg.png-->
 </div>
 
 <div  id="badge" style="padding-top: 20px;" align="center">
@@ -15,9 +15,15 @@
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
 <p></p>
-
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <!-- <img src="https://www.iconsdb.com/icons/download/white/stackoverflow-48.gif" alt="YouTube sBadge"/> -->
+   <!-- </a> -->
+  <!-- <a href="https://twitter.com/your-handle"> -->
+    <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+  </a>
+  <a href="ttps://stackoverflow.com/users/14596529/satyam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/960px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
     <!-- <img src="https://www.iconsdb.com/icons/download/white/stackoverflow-48.gif" alt="YouTube sBadge"/> -->
    <!-- </a> -->
   <!-- <a href="https://twitter.com/your-handle"> -->
