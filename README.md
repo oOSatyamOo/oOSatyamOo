@@ -4,11 +4,10 @@
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="35" height="100" alt="GIF with background"/>
-</a>
-<a href="https://stackoverflow.com/users/14596529/satyam">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
-</a>
+<!-- </a> -->
+<!-- <a href= "https://stackoverflow.com/users/14596529/satyam"> -->
+  <!-- <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/> -->
+<!-- </a> -->
 
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
@@ -28,10 +27,5 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=10alt="GIF  <div style="width:300px; height:200px;">
 </div>
 with background"/>  </div id="stack card" align="center">-->
-    
-  <img align="center" src="https://drive.google.com/file/d/1UyH150E2Ei7AnYH9o4OCbPixp4hytMx2/view?usp=sharing" alt="Sdd"/>
-<a href="https://stackoverflow.com/users/14596529/satyam">
- <div style="background-color: white; display: inline-block; padding: 2px;">
-
-</div>
+  
 
