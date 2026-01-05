@@ -7,18 +7,16 @@
 
 <div id="badges" align="center">
   <div style="background-color: white; display: inline-block; padding: 2px;">
-    <img src="your-gif-url.gif" alt="GIF with background"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" alt="GIF with background"/>
   </div>
+<img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 
 <a href="https://stackoverflow.com/users/14596529/satyam">
   <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge" style="animation: float 3s ease-in-out infinite;"/>
 </a>
-<img src="https://raw.githubusercontent.com/satyam/stackoverflow-badge/master/stackoverflow-badge.svg" alt="Stack Overflow Badge"/>
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
 <a href="https://stackoverflow.com/users/14596529/satyam">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
 </a>
-<img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
