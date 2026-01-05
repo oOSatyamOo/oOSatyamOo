@@ -2,14 +2,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://stackoverflow.com/users/14596529/satyam"width=80 hight=50 alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-
-### Hi there 👋
-👋 Welcome to my GitHub profile!
-
-## About Me
-- I'm a passionate developer with expertise in [your skills].
-- I love building projects and learning new technologies.
+</div>
 
 ## Skills
 - Flutter
