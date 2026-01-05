@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXIzMmNvbzczYnczc2Q0ZHgwaHQyMGZrMnZ5c2t1azluZ214aWI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
+  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
+  <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
 </div>
+
 ### Hi there 👋
 👋 Welcome to my GitHub profile!
 
