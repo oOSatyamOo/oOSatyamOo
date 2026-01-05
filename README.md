@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
 <p></p>
+  <a href="ttps://stackoverflow.com/users/14596529/satyam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/320px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
+  </a>
+
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     <!-- <img src="https://www.iconsdb.com/icons/download/white/stackoverflow-48.gif" alt="YouTube sBadge"/> -->
@@ -22,10 +26,6 @@
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a> 
-  <a href="ttps://stackoverflow.com/users/14596529/satyam">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/320px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
-  </a>
-
 <p></p>
 <a href= "https://stackoverflow.com/users/14596529/satyam">
         <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
