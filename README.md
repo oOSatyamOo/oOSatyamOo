@@ -4,8 +4,9 @@
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
-<!-- </a> -->
-
+<!-- </a> --> 
+ 
+<br>
 </div>
 
 <div  id="badge" style="background-color: white; display: inline-block;  padding-top: 20px;" align="center">
