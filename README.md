@@ -13,8 +13,8 @@
 <a href="https://stackoverflow.com/users/14596529/satyam">
   <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge" style="animation: float 3s ease-in-out infinite;"/>
 </a>
-<img src="https://raw.githubusercontent.com/yourusername/stackoverflow-badge/master/stackoverflow-badge.svg" alt="Stack Overflow Badge"/>
-<img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=your_user_id&period=week" alt="Stack Overflow Stats Badge"/>
+<img src="https://raw.githubusercontent.com/14596529/stackoverflow-badge/master/stackoverflow-badge.svg" alt="Stack Overflow Badge"/>
+<img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
