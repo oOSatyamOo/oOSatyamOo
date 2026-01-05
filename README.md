@@ -20,12 +20,13 @@
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a>
-        <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
 
 </div>
-<!-- <dev align="center" >
-      <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
-    </div> -->
+<dev align="center" >
+  <a href= "https://stackoverflow.com/users/14596529/satyam">
+        <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
+  </a>
+  </div>
 
 
 ## About Me
