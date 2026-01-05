@@ -21,10 +21,10 @@
   </a> -->
   <dev align="center" img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt=""/>
     <div align="center" style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="filter: brightness(0.8);"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="600" height="300" style="filter: brightness(0.8);"/>
 </div>
 <div align="center" style="position: relative; display: inline-block;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 10px;"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="600" height="300" style="border-radius: 10px;"/>
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(255, 0, 0, 0.5); border-radius: 10px;"></div>
 </div>
 
