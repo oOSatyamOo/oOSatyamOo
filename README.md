@@ -20,7 +20,8 @@
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a> 
-    <dev align="center" img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt=""/>
+    <dev align="center" >
+      <img align="center" src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
 </div>
 
 
