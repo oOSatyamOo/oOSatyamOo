@@ -21,9 +21,9 @@
    <!-- </a> -->
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
-  </a>
+  </a>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/70px-Stack_Overflow_icon.svg.png
   <a href="ttps://stackoverflow.com/users/14596529/satyam">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/125px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/320px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
     <!-- <img src="https://www.iconsdb.com/icons/download/white/stackoverflow-48.gif" alt="YouTube sBadge"/> -->
    <!-- </a> -->
   <!-- <a href="https://twitter.com/your-handle"> -->
