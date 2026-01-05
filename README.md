@@ -10,7 +10,7 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=10alt="GIF with background"/>  </div id="stack card" align="center">-->
  <div style="width:300px; height:200px;">
   <iframe
-    src="https://example.com/embed"
+    src="https://lottie.host/embed/fa6ca8af-3e70-4ca7-b078-e364e40511f2/i23izpVO9u.lottie"
     style="width:100%; height:100%; border:0;">
   </iframe>
 </div>
