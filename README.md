@@ -62,9 +62,8 @@
 - [Project 2](link)
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/satyam-k-5b3ab91bb/)
-- [Stackoverflow](https://stackoverflow.com/users/14596529/satyam)
-
+<!-- - [LinkedIn](https://linkedin.com/in/satyam-k-5b3ab91bb/)
+-->
 - 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
