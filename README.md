@@ -274,7 +274,7 @@
 
 
 
-### :fire: My Stats :
+### :fire: My Stats & Collaborations:
 ## 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
 
