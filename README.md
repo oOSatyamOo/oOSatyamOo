@@ -11,9 +11,9 @@
 <div  id="badge" style="padding-top: 20px;" align="center">
     <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=100 alt="GIF"/>  -->
  <!-- <br> -->
- <a href= "https://stackoverflow.com/users/14596529/satyam">
+ <!-- <a href= "https://stackoverflow.com/users/14596529/satyam">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="Stack Overflow Badge"/>
-  </a>
+  </a> -->
 <!-- <p></p> -->
   <!-- <a href="ttps://stackoverflow.com/users/14596529/satyam">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/320px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
@@ -24,9 +24,9 @@
   <!-- <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   <!-- </a> -->
 <!-- <p></p> -->
-<a href= "https://stackoverflow.com/users/14596529/satyam">
+<!-- <a href= "https://stackoverflow.com/users/14596529/satyam">
         <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
-  </a>
+  </a> -->
 </div>
 
   <!--  <dev align="center" >
@@ -128,9 +128,16 @@
       alt="Stripe"
     />
  </a>
+   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
+      title="Git" 
+      alt="Git"
+      width="80" height="80"
+      />
+  </a>
    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">  
     <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/"
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="Stripe"
     />
  </a>
@@ -155,10 +162,13 @@
   
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" title="Jira"/>
-    
-  </a>  <a href="https://play.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21~bgwhite.svg" title="GooglePlay"/>
-  </a>  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://play.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21~bgwhite.svg" 
+      title="GooglePlay"
+      width=100/>
+  </a>
+  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-tile.svg" 
       title="MAP"
       width=80
@@ -171,25 +181,18 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="docker"
       width=80 height=80/>
   </a> 
-
-  
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" title="Android"/>
+    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" title="cpp"/>
+    
   <a href="https://www.freelancer.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21~bgwhite.svg" title="Android"/>
+    <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21~bgwhite.svg" title="freelancer"/>
   </a>  
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/> 
   </a>
   
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
-      title="Git" 
-      alt="Git"
-      width="80" height="80"
-      />
-  </a>
+
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
@@ -245,12 +248,22 @@
 - [Project 1](link)
 - [Project 2](link)-->
 
+
+
+
+
+
+
 <h3 align="left">  📫 Feel Free to Reach Out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyam-k-5b3ab91bb/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/flutter_apps.dart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh_sowndar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dineshsowndar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dineshsowndar" height="30" width="40" /></a> -->
 </p>
+
+
+
+
 
 ## About Me
 - I'm a passionate developer with expertise in **Android, iOS & Web Projects**.
@@ -259,9 +272,15 @@
 - 👯 I’m looking to collaborate to Learn, Disucss and Help with AI Building Tools.
 - 
 
+
+
 ### :fire: My Stats :
 ## 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+- 👨‍💻 2025-2026
+<img src="https://drive.google.com/file/d/1XxlmXsFMumgQc3omj8kP6H8r3YYv1fXB/view?usp=share_link"/>
+[![GitHub 2025-2026](https://drive.google.com/file/d/1XxlmXsFMumgQc3omj8kP6H8r3YYv1fXB/view?usp=share_link)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
@@ -271,5 +290,4 @@
 -->
 
 
-### :writing_hand: Blog Posts :
-
+<!--### :writing_hand: Blog Post-->
