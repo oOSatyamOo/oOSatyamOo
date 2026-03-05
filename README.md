@@ -76,7 +76,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"=
+      alt="figma"
     />
   </a>
   
@@ -84,8 +84,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="40"
-      height="40"
     />
   </a>
 
@@ -93,24 +91,20 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
       alt="tensorflow"
-      width="40"
-      height="40"
+
     />
   </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
-      width="40"
-      height="40"
+
     />
     </a>
   
@@ -119,8 +113,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="Google Cloud"
-      width="40"
-      height="40"
+
     />
   </a>
   
@@ -128,8 +121,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"
       alt="Google Analytics"
-      width="40"
-      height="40"
+
     />
  </a>
 
