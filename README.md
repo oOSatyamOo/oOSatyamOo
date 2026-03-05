@@ -168,7 +168,8 @@
     <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21~bgwhite.svg" title="GoogleAds"/>
   </a> 
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="GoogleAds"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="docker"
+      width=80 height=80/>
   </a> 
 
   
