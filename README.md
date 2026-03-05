@@ -41,7 +41,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg" title="Android"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg" title="Dart"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img
@@ -81,31 +81,87 @@
   <a href="https://www.android.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android"/>
   </a>
+  
+  <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21~bgwhite.svg" title="Apple"/>
+  </a> 
+  <a href="https://developers.google.com/recaptcha/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-official.svg" 
+      title="recaptcha"
+      width=80
+      height=80
+      />
+  </a>
     <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21~bgwhite.svg" title="Apple"/>
-  </a>  <a href="https://developers.google.com/recaptcha/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-official.svg" title="recaptcha"/>
+  </a> 
+  <a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"
+      title="recaptcha"
+      width=80
+      height=80
+      />
+  </a>
+  
+  <a href="https://www.bluetooth.com/learn-about-bluetooth/tech-overview/" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-ar21~bgwhite.svg"
+      alt="Stripe"
+    />
+ </a>
+   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/"
+      alt="Stripe"
+    />
+ </a>
+  <a href="https://upichalega.com" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg"
+      alt="Stripe"
+    />
+ </a>
   </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg" title="Python"/>
-  </a>  <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21~bgwhite.svg" title="phpmyadmin"/>
-  </a>  <a href="https://www.paypal.com" target="_blank" rel="noreferrer">
+  </a>
+   <a href="https://www.paypal.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg" title="Paypal"/>
-  </a>  <a href="https://duckduckgo.com" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21~bgwhite.svg" title="phpmyadmin"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux"/>
-  </a>  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  </a>
+  
+  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Linux"/>
+  </a>
+  
+  <a href=" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" title="Linux"/>
+  </a>
+  
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" title="Jira"/>
     
   </a>  <a href="https://play.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21~bgwhite.svg" title="GooglePlay"/>
   </a>  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-tile.svg" title="MAP"/>
-  </a>  <a href="https://business.google.com/in/google-ads/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-tile.svg" 
+      title="MAP"
+      width=80
+      height=80/>
+  </a> 
+  <a href="https://business.google.com/in/google-ads/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21~bgwhite.svg" title="GoogleAds"/>
-  </a>  <a href="https://www.freelancer.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21~bgwhite.svg" title="Android"/>
-  </a>  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" title="Android"/>
+  <a href="https://www.freelancer.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21~bgwhite.svg" title="Android"/>
+  </a>  
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/> 
@@ -144,14 +200,24 @@
       alt="Google Analytics"/>
  </a>
 
-
   <a href="https://stripe.com" target="_blank" rel="noreferrer">  
     <img
       src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21~bgwhite.svg"
       alt="Stripe"
     />
  </a>
-
+  <a href="https://www.twilio.com" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"
+      alt="Twilio"
+    />
+ </a>
+ <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"
+      alt="Twilio"
+    />
+ </a>
 </div>    <!-- <!--<div id="badges" align="center"> -->
 <!-- <div style="width:300px; height:200px;"> -->
 <!-- </div> -->
