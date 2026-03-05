@@ -38,7 +38,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
     </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg" title="Dart"/>
@@ -279,17 +279,19 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-- 👨‍💻 2026
+### :hammer_and_wrench: 👨‍💻 **2026**
 
-<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 40 AM" src="https://github.com/user-attachments/assets/f83a8fce-5f39-48e5-baa4-f20bd7a8f0a5" />
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 22 AM" src="https://github.com/user-attachments/assets/7fff5ea4-1c0c-4d69-b517-9202a5951749" />
 
-- 👨‍💻 2025
+### :hammer_and_wrench: 👨‍💻 **2025**
 
-<img width="512" height="320" alt="Screenshot 2026-02-27 at 9 42 30 AM" src="https://github.com/user-attachments/assets/0a92e5d1-8cdb-4ca5-95ff-5c7e5818afb9" />
+  
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 30 AM" src="https://github.com/user-attachments/assets/dfb865e3-e820-40a3-b12c-df41a14a0566" />
 
-- 👨‍💻 2024
+### :hammer_and_wrench: 👨‍💻 **2024**
 
-<img width="512" height="320" alt="Screenshot 2026-02-27 at 9 42 22 AM" src="https://github.com/user-attachments/assets/a8ef093a-ec02-44f1-8888-29ff6e1591ad" />
+  
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 40 AM" src="https://github.com/user-attachments/assets/3fe8dcbe-a126-4b95-8899-cc56de44147d" />
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
