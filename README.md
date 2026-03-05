@@ -278,9 +278,15 @@
 ## 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## 
+[![GitHub Streak](https://github.com/user-attachments/assets/e081fa7c-83da-4afa-8b73-b82de1fb3cee)](https://git.io/streak-stats)
+
 - 👨‍💻 2025-2026
-<img src="https://drive.google.com/file/d/1XxlmXsFMumgQc3omj8kP6H8r3YYv1fXB/view?usp=share_link"/>
-[![GitHub 2025-2026](https://drive.google.com/file/d/1XxlmXsFMumgQc3omj8kP6H8r3YYv1fXB/view?usp=share_link)
+<img width="1440" height="900" alt="2025-2026" src="https://github.com/user-attachments/assets/e081fa7c-83da-4afa-8b73-b82de1fb3cee" />
+<img width="1440" height="900" alt="Screenshot 2026-02-27 at 9 42 30 AM" src="https://github.com/user-attachments/assets/aab88912-9833-453b-b3b9-c17e785f6eb1" />
+<img width="1440" height="900" alt="Screenshot 2026-02-27 at 9 42 40 AM" src="https://github.com/user-attachments/assets/93604732-e9b7-4cd0-8283-76d5df2e1dcb" />
+<img width="1440" height="900" alt="Screenshot 2026-02-27 at 9 43 27 AM" src="https://github.com/user-attachments/assets/9f5b2d65-55f7-49b9-bb5e-fd24b88cc2c3" />
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
