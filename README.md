@@ -44,6 +44,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
       alt="Flutter"
+      width="40"
+      height="40"
     />
   </a>
   
@@ -56,19 +58,19 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21~bgwhite.svg" title="KTL" alt="Kotlin"
   </a>
   
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" title="MySQL"/>
-  </a>
-  
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   </a>
   
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
+      title="Git" 
+      alt="Git"
+      width="40" height="40"
+      />
   </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -135,9 +137,7 @@
   <a href="https://stripe.com" target="_blank" rel="noreferrer">  
     <img
       src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21~bgwhite.svg"
-      alt="Google Analytics"
-      width="40"
-      height="40"
+      alt="Stripe"
     />
  </a>
 
