@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
-  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;"> 🔭 🌱 Welcome to my universe — where ideas turn into code and innovation comes to life.🚀</h1>
+  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;"> 🔭 🌱 Welcome to my universe — where ideas turn into code and innovation comes to life.🚀</h1>f
   <p style="font-size: 1.2em; color: #555;">Building where code meets creativity and innovation takes flight. Most of my projects remain private due to professional commitments and company collaborations.</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 <!-- </a> --> 
@@ -97,12 +97,31 @@
   </a> 
   <a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"
-      title="recaptcha"
+      title="xcode"
       width=80
       height=80
       />
   </a>
-  
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+      alt="Twilio"
+    />
+ </a>
+ 
+ <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"
+      alt="Twilio"
+    />
+ </a>
+ 
+  <a href="https://www.swift.org" target="_blank" rel="noreferrer">  
+    <img
+      src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"
+      alt="Twilio"
+    />
+ </a>
   <a href="https://www.bluetooth.com/learn-about-bluetooth/tech-overview/" target="_blank" rel="noreferrer">  
     <img
       src="https://www.vectorlogo.zone/logos/bluetooth/bluetooth-ar21~bgwhite.svg"
@@ -134,15 +153,6 @@
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux"/>
   </a>
   
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Linux"/>
-  </a>
-  
-  <a href=" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" title="Linux"/>
-  </a>
-  
-  
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" title="Jira"/>
     
@@ -157,6 +167,11 @@
   <a href="https://business.google.com/in/google-ads/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21~bgwhite.svg" title="GoogleAds"/>
   </a> 
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="GoogleAds"/>
+  </a> 
+
+  
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" title="Android"/>
   <a href="https://www.freelancer.com" target="_blank" rel="noreferrer">
@@ -218,6 +233,8 @@
       alt="Twilio"
     />
  </a>
+
+ 
 </div>    <!-- <!--<div id="badges" align="center"> -->
 <!-- <div style="width:300px; height:200px;"> -->
 <!-- </div> -->
