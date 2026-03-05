@@ -10,9 +10,9 @@
 
 <div  id="badge" style="padding-top: 20px;" align="center">
     <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=100 alt="GIF"/>  -->
- <!-- <br> -->
+ <br>
  <a href= "https://stackoverflow.com/users/14596529/satyam">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="Stack Overflow Badge"/>
   </a>
 <!-- <p></p> -->
   <!-- <a href="ttps://stackoverflow.com/users/14596529/satyam">
