@@ -281,17 +281,16 @@
 
 ### :hammer_and_wrench: 👨‍💻 **2026**
 
-<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 22 AM" src="https://github.com/user-attachments/assets/7fff5ea4-1c0c-4d69-b517-9202a5951749" />
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 40 AM" src="https://github.com/user-attachments/assets/520b1d8f-46c4-4ffa-bd36-8a9f98ea51b5" />
 
 ### :hammer_and_wrench: 👨‍💻 **2025**
 
-  
-<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 30 AM" src="https://github.com/user-attachments/assets/dfb865e3-e820-40a3-b12c-df41a14a0566" />
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 30 AM" src="https://github.com/user-attachments/assets/16674152-15db-459f-8363-d944a31b5fe6" />
 
 ### :hammer_and_wrench: 👨‍💻 **2024**
 
-  
-<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 40 AM" src="https://github.com/user-attachments/assets/3fe8dcbe-a126-4b95-8899-cc56de44147d" />
+
+<img width="640" height="400" alt="Screenshot 2026-02-27 at 9 42 22 AM" src="https://github.com/user-attachments/assets/40fa24a0-09e6-4bd8-8b38-a402df5f16d0" />
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
