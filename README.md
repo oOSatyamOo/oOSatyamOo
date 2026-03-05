@@ -40,36 +40,82 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+    </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg" title="Android"/>
+  </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
       alt="Flutter"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
-  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" title="Java" alt="Java" 
   </a>
   
   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21~bgwhite.svg" title="KTL" alt="Kotlin"
   </a>
+ 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"/>
+  </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" title="Java" alt="Java" 
+  </a>
+  
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="Google Cloud"/>
+  </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" title="MySQL"/>
   </a>
   
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
+  
+  <a href="https://www.android.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android"/>
   </a>
+    <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21~bgwhite.svg" title="Apple"/>
+  </a>  <a href="https://developers.google.com/recaptcha/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-official.svg" title="recaptcha"/>
+  </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg" title="Python"/>
+  </a>  <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21~bgwhite.svg" title="phpmyadmin"/>
+  </a>  <a href="https://www.paypal.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg" title="Paypal"/>
+  </a>  <a href="https://duckduckgo.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux"/>
+  </a>  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" title="Jira"/>
+    
+  </a>  <a href="https://play.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21~bgwhite.svg" title="GooglePlay"/>
+  </a>  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-tile.svg" title="MAP"/>
+  </a>  <a href="https://business.google.com/in/google-ads/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21~bgwhite.svg" title="GoogleAds"/>
+  </a>  <a href="https://www.freelancer.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21~bgwhite.svg" title="Android"/>
+  </a>  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" title="Android"/>
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/> 
+  </a>
+  
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
       title="Git" 
       alt="Git"
-      width="40" height="40"
+      width="80" height="80"
       />
   </a>
   
@@ -80,49 +126,22 @@
     />
   </a>
   
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-    />
-  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-
-    />
+      alt="tensorflow"/>
   </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-
-    />
+      alt="postman"/>
     </a>
-  
-  </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="Google Cloud"
 
-    />
-  </a>
   
  <a href="https://developers.google.com/analytics/" target="_blank" rel="noreferrer">  
     <img
       src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"
-      alt="Google Analytics"
-
-    />
+      alt="Google Analytics"/>
  </a>
 
 
@@ -144,7 +163,7 @@
 
 <h3 align="left">  📫 Feel Free to Reach Out:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam-k-5b3ab91bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Satyam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam-k-5b3ab91bb/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/flutter_apps.dart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh_sowndar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dineshsowndar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dineshsowndar" height="30" width="40" /></a> -->
 </p>
