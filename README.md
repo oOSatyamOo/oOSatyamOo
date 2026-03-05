@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
   <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;">Welcome to My GitHub Universe! 🚀</h1>
-  <p style="font-size: 1.2em; color: #555;">Where code meets creativity and innovation takes flight!, You wont see my daily routine because it's 99% private</p>
+  <p style="font-size: 1.2em; color: #555;">Building where code meets creativity and innovation takes flight. Most of my projects remain private due to professional commitments and company collaborations.</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 <!-- </a> --> 
  <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/960px-Stack_Overflow_logo.svg.png-->
@@ -10,23 +10,23 @@
 
 <div  id="badge" style="padding-top: 20px;" align="center">
     <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpMjMyM2d1aGN3eXo5N3Z4ZzJrMXA3bmRnMzZuazk5cThubDN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyXCGaY82kiGTMDeD0/giphy.gif" width="40" height=100 alt="GIF"/>  -->
- <br>
+ <!-- <br> -->
  <a href= "https://stackoverflow.com/users/14596529/satyam">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/14596529?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
-<p></p>
-  <a href="ttps://stackoverflow.com/users/14596529/satyam">
+<!-- <p></p> -->
+  <!-- <a href="ttps://stackoverflow.com/users/14596529/satyam">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/320px-Stack_Overflow_logo.svg.png" alt="stack Badge"/>
-  </a>
+  </a> -->
 
-  <a href="https://youtube.com/your-channel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  <!-- <a href="https://youtube.com/your-channel">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>-->
     <!-- <img src="https://www.iconsdb.com/icons/download/white/stackoverflow-48.gif" alt="YouTube sBadge"/> -->
    <!-- </a> -->
   <!-- <a href="https://twitter.com/your-handle"> -->
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
-  </a> 
-<p></p>
+  <!-- </a> -->
+<!-- <p></p> -->
 <a href= "https://stackoverflow.com/users/14596529/satyam">
         <img src="https://komarev.com/ghpvc/?username=oOSatyamOo&label=PROFILE+VIEWS" alt="orifle"/>
   </a>
@@ -39,9 +39,7 @@
   </div> -->
 
 
-## About Me
-- I'm a passionate developer with expertise in [your skills].
-- I love building projects and learning new technologies.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,27 +50,70 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+    </a>
 </div>    <!-- <!--<div id="badges" align="center"> -->
 <!-- <div style="width:300px; height:200px;"> -->
 <!-- </div> -->
 <!-- with background"/>  </div id="stack card" align="center">--> -->
   
-## Projects
+<!--## Projects
 - [Project 1](link)
-- [Project 2](link)
+- [Project 2](link)-->
 
-## Connect
-<!-- - [LinkedIn](https://linkedin.com/in/satyam-k-5b3ab91bb/)
--->
+<h3 align="left">Connect with me or Feel Free to Reach Out:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/satyam-k-5b3ab91bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Satyam" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/flutter_apps.dart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh_sowndar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dineshsowndar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dineshsowndar" height="30" width="40" /></a> -->
+</p>
+
+## About Me
+- I'm a passionate developer with expertise in **Android, iOS & Web Projects**.
+- 💬 If you have Clear Vision Ask me about **Flutter** to build Applicantion, Process & Solutions.
+- 🔭 🌱 I’m Currently Learning AI & ML to Boost my Development Skills.
+- 👯 I’m looking to collaborate to Learn, Disucss and Help with AI Building Tools.
 - 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### :fire: My Stats :
 ## 
