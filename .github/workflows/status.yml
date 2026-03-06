@@ -23,13 +23,17 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          # The script is now located inside the 'src' folder of the original repo
-          curl -O https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generate.py
+          # Try the most likely path first
+          curl -L -o generate_script.py https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generated.py
           
-          # Run the script
-          python generate.py
-          
-          # Create folder if it doesn't exist and move SVGs there
+          # Check if the file is actually a 404 (less than 100 bytes is usually an error page)
+          FILESIZE=$(stat -c%s "generate_script.py")
+          if [ $FILESIZE -lt 100 ]; then
+            echo "First link failed, trying alternate..."
+            curl -L -o generate_script.py https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generate.py
+          fi
+
+          python generate_script.py
           mkdir -p generated/
           mv *.svg generated/ 2>/dev/null || true
 
@@ -39,8 +43,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add generated/*.svg
           git commit -m "Update GitHub stats" || echo "No changes to commit"
-          # IMPORTANT: If your branch is 'main', change 'master' to 'main' below
-          git push origin master
+          git push
 # name: GitHub Stats
 # on:
 #   schedule:
