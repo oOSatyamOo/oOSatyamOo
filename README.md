@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome Animation"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Separator"/>
-  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;"> 🔭 🌱 Welcome to my universe — where ideas turn into code and innovation comes to life.🚀</h1>f
+  <h1 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #3498db;"> 🔭 🌱 Welcome to my universe — where ideas turn into code and innovation comes to life.🚀</h1>
   <p style="font-size: 1.2em; color: #555;">Building where code meets creativity and innovation takes flight. Most of my projects remain private due to professional commitments and company collaborations.</p>
   <img align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" alt="Stack Overflow Stats Badge"/>
 <!-- </a> --> 
