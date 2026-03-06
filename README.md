@@ -273,13 +273,13 @@ I’m passionate about building scalable, user-centric products that solve real-
 
 
 <img width="100%" height="600" alt="Screenshot 2026-02-27 at 9 42 22 AM" src="https://github.com/user-attachments/assets/40fa24a0-09e6-4bd8-8b38-a402df5f16d0" />
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 <!--### :writing_hand: Blog Post-->
