@@ -8,7 +8,7 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Generate Stats
         uses: jstrieb/github-stats@master
         env:
