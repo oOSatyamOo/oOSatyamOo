@@ -289,9 +289,10 @@ I’m passionate about building scalable, user-centric products that solve real-
 **Automated testing is a safety net that protects the program from its programmers 🐛 (Yegor Bugayenko)**
 
 **As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)**
+
 <a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
-  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/overview.svg" width="48%" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/languages.svg" width="48%" alt="Language Stats" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oOSatyamOo)
