@@ -291,8 +291,8 @@ I’m passionate about building scalable, user-centric products that solve real-
 **As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)**
 
 <a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
-  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/overview.svg" width="48%" alt="GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/languages.svg" width="48%" alt="Language Stats" />
+  <img src="https://github.com/oOSatyamOo/oOSatyamOo/blob/main/generated/languages.svg" width="48%" alt="GitHub Overview" />
+  <img src="https://github.com/oOSatyamOo/oOSatyamOo/blob/main/generated/overview.svg" width="48%" alt="Language Stats" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oOSatyamOo)
