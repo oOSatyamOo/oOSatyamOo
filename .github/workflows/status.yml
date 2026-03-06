@@ -8,18 +8,55 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout your repo
+        uses: actions/checkout@v4 # Upgraded to v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Upgraded to v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Generate Stats
-        uses: jstrieb/github-stats@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          curl -O https://raw.githubusercontent.com/jstrieb/github-stats/master/generated.py
+          python generated.py
+          mkdir -p generated/
+          mv *.svg generated/ 2>/dev/null || true
+
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add generated/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
           git push
+# name: GitHub Stats
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" # Runs every day at midnight
+#   workflow_dispatch: # Allows you to run it manually
+
+# jobs:
+#   update-stats:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - name: Generate Stats
+#         uses: jstrieb/github-stats@master
+#         env:
+#           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+#       - name: Commit and Push
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#           git add generated/*.svg
+#           git commit -m "Update GitHub stats" || exit 0
+#           git push
 # # This is a basic workflow to help you get started with Actions
 
 # name: CI
