@@ -253,25 +253,48 @@
 
 
 
-
-<h3 align="left">  📫 Feel Free to Reach Out:</h3>
-<p align="left">
+## 📫 Let's Connect!
 <a href="https://linkedin.com/in/satyam-k-5b3ab91bb/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
+
 <!-- <a href="https://www.instagram.com/flutter_apps.dart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh_sowndar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dineshsowndar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dineshsowndar" height="30" width="40" /></a> -->
-</p>
+Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 
+```mermaid
+flowchart LR
+    A([🐛 Found a Bug])
 
+    A --> B([Hire Satyam 🤝])
+    A --> C([Google Endlessly 🔎  Wast Time ⌛])
 
+    B --> D([🚀📈  Problem Solved ])
+    C --> E([🐛🐛🐛😢 More Bugs • More Coffee • Still Debugging])
 
+    click B "https://linkedin.com/in/satyam-k-5b3ab91bb/" "Hire Satyam"
+
+    style B stroke:#1a73e8,stroke-width:4px
+    style C stroke:#e53935,stroke-width:4px
+```
 
 ## About Me
 - I'm a passionate developer with expertise in **Android, iOS & Web Projects**.
 - 💬 If you have Clear Vision Ask me about **Flutter** to build Applicantion, Process & Solutions.
 - 🔭 🌱 I’m Currently Learning AI & ML to Boost my Development Skills.
 - 👯 I’m looking to collaborate to Learn, Disucss and Help with AI Building Tools.
-- 
+  
 
+## What Drives Me
+I’m passionate about building scalable, user-centric products that solve real-world problems. I take full ownership of the development lifecycle—from concept to delivery—while leading cross-platform mobile development, optimizing performance, and growing high-performing teams. I focus on creating impactful products that drive meaningful results.
+
+**Automated testing is a safety net that protects the program from its programmers 🐛 (Yegor Bugayenko)**
+
+**As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)**
+<a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
+  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=oOSatyamOo)
 
 
 ### :fire: My Stats & Collaborations:
