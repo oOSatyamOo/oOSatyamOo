@@ -23,8 +23,13 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          curl -O https://raw.githubusercontent.com/jstrieb/github-stats/master/generate.py
+          # The script is now located inside the 'src' folder of the original repo
+          curl -O https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generate.py
+          
+          # Run the script
           python generate.py
+          
+          # Create folder if it doesn't exist and move SVGs there
           mkdir -p generated/
           mv *.svg generated/ 2>/dev/null || true
 
