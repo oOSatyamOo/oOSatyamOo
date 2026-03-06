@@ -258,7 +258,7 @@ I’m passionate about building scalable, user-centric products that solve real-
   </table>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 
 ### :hammer_and_wrench: 👨‍💻 **2026**
