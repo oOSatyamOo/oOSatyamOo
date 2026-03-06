@@ -3,47 +3,38 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [ "master", "main" ]
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Generate Language Stats
+        uses: lowlighter/metrics@latest
         with:
-          python-version: '3.x'
+          token: ${{ secrets.ACCESS_TOKEN }}
+          user: oOSatyamOo
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          filename: generated/languages.svg
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Generate Stats
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: |
-          # Try the most likely path first
-          curl -L -o generate_script.py https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generated.py
-          
-          # Check if the file is actually a 404 (less than 100 bytes is usually an error page)
-          FILESIZE=$(stat -c%s "generate_script.py")
-          if [ $FILESIZE -lt 100 ]; then
-            echo "First link failed, trying alternate..."
-            curl -L -o generate_script.py https://raw.githubusercontent.com/jstrieb/github-stats/master/src/generate.py
-          fi
-
-          python generate_script.py
-          mkdir -p generated/
-          mv *.svg generated/ 2>/dev/null || true
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/*.svg
-          git commit -m "Update GitHub stats" || echo "No changes to commit"
-          git push
+      - name: Generate Overview Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          user: oOSatyamOo
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          filename: generated/overview.svg
 # name: GitHub Stats
 # on:
 #   schedule:
