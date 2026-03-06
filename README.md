@@ -298,23 +298,24 @@ I’m passionate about building scalable, user-centric products that solve real-
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="48%" align="center" valign="top">
         <a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
-          <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/languages.svg" width="100%" />
+          <img src="https://github.com/oOSatyamOo/oOSatyamOo/blob/main/generated/languages.svg#gh-dark-mode-only" width="100%" />
         </a>
         <br><br>
         <a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOSatyamOo&layout=compact&theme=vision-friendly-dark" width="100%" />
+          <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=14596529&period=week" width="100%" />
         </a>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="48%" align="center" valign="top">
         <a href="https://github.com/oOSatyamOo/GitHub-Language-Stats">
-          <img src="https://raw.githubusercontent.com/oOSatyamOo/GitHub-Language-Stats/master/generated/overview.svg" width="100%" />
+          <img src="https://github.com/oOSatyamOo/oOSatyamOo/blob/main/generated/overview.svg#gh-dark-mode-only" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=oOSatyamOo)
 
 
