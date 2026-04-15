@@ -48,20 +48,12 @@
         <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21~bgwhite.svg" title="Apple"/>
     </a> 
     <a href="https://developers.google.com/recaptcha/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-official.svg" 
+        <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-ar21.svg" 
         title="recaptcha"
-        width=80
-        height=80
         />
-    </a>
-        <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21~bgwhite.svg" title="Apple"/>
-    </a> 
     <a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"
         title="xcode"
-        width=80
-        height=80
         />
     </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">  
