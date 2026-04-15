@@ -252,6 +252,31 @@ I’m passionate about building scalable, user-centric products that solve real-
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oOSatyamOo&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
+## 🛠 Alway Clean and Clear Structure
+    lib/
+    ├── core/
+    │   ├── error/
+    │   ├── network/
+    │   ├── utils/
+    │   └── constants/
+    ├── features/
+    │   ├── user_profile/
+    │   │   ├── data/
+    │   │   │   ├── datasources/
+    │   │   │   ├── models/
+    │   │   │   └── repositories/
+    │   │   ├── domain/
+    │   │   │   ├── entities/
+    │   │   │   ├── repositories/
+    │   │   │   └── usecases/
+    │   │   └── presentation/
+    │   │       ├── bloc/
+    │   │       ├── pages/
+    │   │       └── widgets/
+    │   └── authentication/
+    │       └── … (same structure)
+    │       └── Session Management
+    └── injection_container.dart
 
 ### :hammer_and_wrench: 👨‍💻 **2026**
 
